@@ -1,12 +1,12 @@
 # Trabalho-Teoria-de-grafos
-Aluno: Victor Oliveira Silva Nunes RA: C40BGG2
+Aluno: Victor Oliveira Silva Nunes RA: C40BGG2.
 
-Implementação do algoritmo de Dijkstra
+Implementação do algoritmo de Dijkstra.
 
-Foi implementado o algoritmo de Dijkstra no contexto de um resort que utiliza um sistema para facilitar a locomoção dos turistas dentro do seu resort
+Foi implementado o algoritmo de Dijkstra no contexto de um resort que utiliza um sistema para facilitar a locomoção dos turistas dentro do seu resort.
 
 Para cada local foi designado um código para facilitar a utilização do sistema:
-O mapeamento do grafo esta em Issues com seus nomes, codigos e pesos
+O mapeamento do grafo esta em Issues com seus nomes, codigos e pesos.
 
 Portaria = 1,                Padaria = 5,                  Parque ecológico = 9,
 Parque Aquático = 2,    Praça da lua = 6,          Área Residencial = 10,
@@ -15,7 +15,7 @@ Praça do sol = 4,          Praça do mirante = 8,    Parque de diversão = 12.
 
 O usuário define sua localidade atual e seu desejo de destino em sequencia programa usará o algoritmo de Diijktra para encontra a melhor rota entre as duas localidades definidas pelo usuário.
 
-*O codigo fonte foi dividido em 2 classes: Main e Graph
+*O codigo fonte foi dividido em 2 classes: Main e Graph.
 
 CODIGO FONTE:
 Classe fixa Graph com suas explicações.
