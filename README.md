@@ -1,4 +1,5 @@
 # Trabalho-Teoria-de-grafos
+Aluno: Victor Oliveira Silva Nunes RA: C40BGG2
 Implementação do algoritmo de Dijkstra
 
 Foi implementado o algoritmo de Dijkstra no contexto de um resort que utiliza um sistema para facilitar a locomoção dos turistas dentro do seu resort
