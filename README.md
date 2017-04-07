@@ -1,11 +1,13 @@
 # Trabalho-Teoria-de-grafos
 Aluno: Victor Oliveira Silva Nunes RA: C40BGG2
+
 Implementação do algoritmo de Dijkstra
 
 Foi implementado o algoritmo de Dijkstra no contexto de um resort que utiliza um sistema para facilitar a locomoção dos turistas dentro do seu resort
-O mapeamento do grafo esta em
 
 Para cada local foi designado um código para facilitar a utilização do sistema:
+O mapeamento do grafo esta em Issues com seus nomes, codigos e pesos
+
 Portaria = 1                Padaria = 5                  Parque ecológico = 9
 Parque Aquático = 2    Praça da lua = 6          Área Residencial = 10
 Parquinho = 3              Sorveteria = 7             Restaurante = 11
